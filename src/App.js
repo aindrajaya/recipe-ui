@@ -1,14 +1,14 @@
 import React from 'react';
-import {RandomMeal} from "./components";
+import {RandomMeal, Meal} from "./components";
 
 function App() {
   return (
-    <div className="App">
-      hello recipe
-      <section className="container">
-      <h2>Featured Meal</h2>
+    <div className="App"> 
+      <input type="text" />
         <RandomMeal />
-      </section>
+
+        <Meal />
+        <Meal />
     </div>
   );
 }
