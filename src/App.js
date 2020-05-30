@@ -1,26 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import {RandomMeal} from "./components";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      hello
+      <RandomMeal />
     </div>
   );
 }
 
 export default App;
+
+//TODOS
+// 1. Search for Meals
+// 2. Display the Result
+// 3. Featured Meals
+// 4. Favorite recipe
