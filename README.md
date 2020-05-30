@@ -1,8 +1,3 @@
 # Recipe UI from UIDesignDailly
 
-![recipe-ui]<img
-src=“images/recipeui-featured-recipe.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+<img src="https://github.com/aindrajaya/recipe-ui/blob/master/images/recipeui-featured-recipe.png" />
